@@ -11,7 +11,7 @@ export const TableSkeleton: React.FC<{ rows?: number }> = ({ rows = 5 }) => {
           <div className="h-4 bg-slate-200 rounded w-1/6" />
           <div className="h-4 bg-slate-200 rounded w-1/6" />
           <div className="h-4 bg-slate-200 rounded w-1/8 ml-auto" />
-        </div>
+        </div> 
       ))}
     </div>
   ); 
