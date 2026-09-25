@@ -1,6 +1,0 @@
-{
-  "name": "DataLeakGuard-CV",
-  "description": "Evidence-based ML and Computer Vision integrity assurance platform for detecting leakage, verifying models, and auditing inference provenance.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
