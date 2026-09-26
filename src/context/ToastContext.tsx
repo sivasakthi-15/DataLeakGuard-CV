@@ -9,7 +9,7 @@ export interface ToastItem {
   title: string;
   message?: string;
 }
-
+ 
 interface ToastContextType {
   toast: (item: Omit<ToastItem, 'id'>) => void;
   success: (title: string, message?: string) => void;
